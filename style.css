@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+#my-canvas {
+  border: 2px solid rgb(25, 4, 4);
+  border-radius: 10px;
+}
+
+#stars {
+  display: none;
+}
+
+#cloud {
+  display: none;
+}
+#tree {
+  display: none;
+}
